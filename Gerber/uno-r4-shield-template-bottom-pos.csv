@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","POWER1","PinHeader_1x08_P2.54mm_Vertical",166.361733,-107.465000,-90.000000,bottom
+"J2","ANALOG","PinHeader_1x06_P2.54mm_Vertical",189.226733,-107.465000,-90.000000,bottom
+"J4","DIGITAL2","PinHeader_1x10_P2.54mm_Vertical",180.091733,-59.200000,90.000000,bottom
+"J5","DIGITAL1","PinHeader_1x08_P2.54mm_Vertical",201.891733,-59.200000,90.000000,bottom

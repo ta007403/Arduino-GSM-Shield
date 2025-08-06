@@ -1,0 +1,47 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","1500uF 16V","CP_Radial_D10.0mm_P5.00mm",169.000000,-75.900000,180.000000,top
+"D1","LED","LED_D3.0mm",137.700000,-89.180000,180.000000,top
+"D2","LED","LED_D3.0mm",109.175000,-64.600000,180.000000,top
+"D3","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",146.600000,-66.480000,180.000000,top
+"D4","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",118.060000,-41.900000,180.000000,top
+"D5","LED","LED_D3.0mm",188.625000,-138.785000,180.000000,top
+"D6","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",197.405000,-115.685000,180.000000,top
+"D7","1N4007","D_DO-41_SOD81_P10.16mm_Horizontal",105.040000,-76.200000,0.000000,top
+"GSM_Module1","SIM800L","SIM800L",184.691733,-83.750000,-90.000000,top
+"J3","GSM Orange LED ","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",200.300000,-42.100000,180.000000,top
+"J6","Pin8 Arduino LED Blue","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",187.500000,-42.100000,180.000000,top
+"J7","+12V Input","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",84.869042,-99.240427,-90.000000,top
+"J8","Bill Acceptor","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",84.869042,-87.775427,-90.000000,top
+"J9","Coin Acceptor","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",84.869042,-76.340427,-90.000000,top
+"J10","+5V output","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",217.500000,-91.180000,90.000000,top
+"J11","+3.3V output","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",217.600000,-78.600000,90.000000,top
+"J12","Solder Pads 2","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",99.205000,-129.925000,-90.000000,top
+"J13","GND","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",84.869042,-64.840427,-90.000000,top
+"J14","Pin17 Rasp Pi LED Green","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",174.400000,-42.105000,180.000000,top
+"J15","Pilot Lamp Buzzer","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",217.725000,-132.065000,90.000000,top
+"J16","220VAC Detection In","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",83.605000,-129.925000,-90.000000,top
+"J17","220VAC Detection Out","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",157.105000,-137.485000,90.000000,top
+"J19","GSM LED","PinHeader_1x01_P2.54mm_Vertical",205.000000,-102.200000,0.000000,top
+"J20","Rasp Pi Control","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",161.380000,-42.200000,180.000000,top
+"K1","G5LE-1-DC5","G5LE-1",135.070000,-82.880000,0.000000,top
+"K2","G5LE-1-DC5","G5LE-1",106.650000,-58.400000,0.000000,top
+"K3","G5LE-1-DC5","G5LE-1",185.967500,-132.185000,0.000000,top
+"Q1","BC337","TO-92_Inline",130.405000,-66.140000,0.000000,top
+"Q2","BC337","TO-92_Inline",101.960000,-41.500000,0.000000,top
+"Q3","BC337","TO-92_Inline",181.125000,-115.485000,0.000000,top
+"R1","10KΩ","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",168.851733,-88.700000,180.000000,top
+"R2","20KΩ","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",158.711733,-93.600000,0.000000,top
+"R4","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",125.445000,-90.500000,90.000000,top
+"R5","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",97.400000,-65.840000,90.000000,top
+"R6","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",131.700000,-69.840000,-90.000000,top
+"R7","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",103.200000,-45.360000,-90.000000,top
+"R8","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",175.925000,-140.065000,90.000000,top
+"R9","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",182.425000,-119.205000,-90.000000,top
+"R10","10KΩ","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",171.025000,-140.065000,90.000000,top
+"R11","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",190.215000,-53.105000,180.000000,top
+"R12","510Ω","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",177.260000,-53.200000,180.000000,top
+"S1","+4V Enable","2MS1T1B3M2QES",149.180000,-59.300000,90.000000,top
+"U1","DCDC_StepDown_LM2596","YAAJ_DCDC_StepDown_LM2596",105.180000,-97.610000,0.000000,top
+"U2","EL817","DIP-4_W7.62mm",129.160000,-90.300000,90.000000,top
+"U3","EL817","DIP-4_W7.62mm",100.725000,-65.700000,90.000000,top
+"U4","EL817","DIP-4_W7.62mm",179.885000,-140.005000,90.000000,top
