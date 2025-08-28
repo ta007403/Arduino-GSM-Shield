@@ -44,6 +44,8 @@ Input and output connectors for 220VAC detection sensor.
 
 Useful for monitoring AC mains availability.
 
+----------------------------------------------------------------------------------------
+
 📐 Hardware Overview
 
 Main components visible on the PCB:
@@ -78,6 +80,8 @@ GSM Module Slot (SIM800L/SIM800C footprint).
  for detailed pinouts)
 .
 
+----------------------------------------------------------------------------------------
+
 🔌 Pin Mapping
 Function	Controller	Pin
 Coin Enable	Raspberry Pi	GPIO17
@@ -92,6 +96,8 @@ Internal Regulator: LM2596S → +4V for GSM
 
 Relays and acceptors powered directly from +12V line.
 
+----------------------------------------------------------------------------------------
+
 🚀 Use Case
 
 This PCB is ideal for:
@@ -102,6 +108,8 @@ Coin/bill based Bitcoin Lightning machines.
 
 GSM-enabled kiosks requiring reliable reset and status handling.
 
+----------------------------------------------------------------------------------------
+
 📂 Repository Contents
 
 Smart Coin PCB Version 2.1.JPG → Rendered 3D PCB view.
@@ -109,6 +117,8 @@ Smart Coin PCB Version 2.1.JPG → Rendered 3D PCB view.
 uno-r4-shield-template__Assembly.pdf → PCB layout & assembly reference.
 
 README.md → This documentation.
+
+----------------------------------------------------------------------------------------
 
 🛠️ Assembly Notes
 
@@ -121,6 +131,8 @@ Install GSM module (SIM800L or SIM800C).
 Connect buzzer and LED indicators.
 
 Connect Raspberry Pi/Arduino control lines as per pin mapping.
+
+----------------------------------------------------------------------------------------
 
 📜 License
 
